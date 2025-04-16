@@ -10,6 +10,6 @@ public class Demo26{
         } else {
             System.out.println(number + " is NOT divisible by both 5 and 11.");
         }
-   
     }
-}
+}    
+  
